@@ -47,6 +47,6 @@ export default {
   },
 
   generate: {
-    dir: 'todo-list-nuxtjs'
+    dir: 'dist'
   }
 }
